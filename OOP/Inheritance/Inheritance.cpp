@@ -31,8 +31,7 @@ class MyGrandChild : public MyChild, public MyOtherClass
 {
 };
 
-int
-main()
+int main()
 {
     MyGrandChild myObj;
     myObj.myFunction();
