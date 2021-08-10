@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/function_need_to_test.cpp
+function_need_to_test.h
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/function_need_to_test.h
+
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/function_need_to_test.h
+
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/test.cpp
+function_need_to_test.h
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/function_need_to_test.h
+gtest/gtest.h
+-
+

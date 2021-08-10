@@ -1,0 +1,3 @@
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/build/CMakeFiles/rebuild_cache.dir
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/build/CMakeFiles/edit_cache.dir
+/home/cris/Desktop/WindowShare/C_Cplusplus/GTEST/build/CMakeFiles/runTests.dir
